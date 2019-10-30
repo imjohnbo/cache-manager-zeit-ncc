@@ -1,0 +1,16 @@
+{
+  "name": "cacheManager",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "ncc build index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@zeit/ncc": "^0.20.5",
+    "cache-manager": "^2.10.0"
+  }
+}
