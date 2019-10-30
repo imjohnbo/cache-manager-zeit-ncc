@@ -10,7 +10,7 @@ jobs:
     - uses: actions/checkout@v1
     - uses: actions/setup-node@v1
     - name: npm install, build, and test
-	run: |
-          npm install
-          npm run build --if-present
-          node dist/index.js
+      run: |
+        npm install
+        npm run build --if-present
+        node dist/index.js
