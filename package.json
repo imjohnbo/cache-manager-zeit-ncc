@@ -11,6 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "@zeit/ncc": "^0.20.5",
-    "probot": "imjohnbo/probot#8849347bca52fc2003be5d4d4359c02b877e4277"
+    "probot": "probot/probot#9ac0ee1ca95320b6d529fc4484be8565e872b737"
   }
 }
