@@ -11,6 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "@zeit/ncc": "^0.20.5",
-    "cache-manager": "^2.10.0"
+    "probot": "imjohnbo/probot#845701334c22"
   }
 }
